@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="./assets/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>________</title>
+    <link rel="stylesheet" href="../dist/style.css" />
+  </head>
+  <body class="bg-zinc-950 text-white p-8">
+    <h1 class="text-3xl font-bold text-yellow-400 mb-6">Blog</h1>
+    <div id="blog-list" class="space-y-4"></div>
+
+    <main
+      class="p-4 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6"
+      id="blog-list"
+    >
+      <!-- Blog posts will be injected here -->
+    </main>
+
+    <script src="./js/blog-data.js"></script>
+    <script src="./js/render-blogs.js"></script>
+  </body>
+</html>

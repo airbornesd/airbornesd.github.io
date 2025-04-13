@@ -1,0 +1,33 @@
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Blog Post</title>
+    <link href="../dist/style.css" rel="stylesheet" />
+  </head>
+  <body class="bg-zinc-950 text-white p-8">
+    <div class="mb-6">
+      <a href="../blog.html" class="text-yellow-400 hover:underline"
+        >← Back to Blog</a
+      >
+    </div>
+    <div id="blog-content" class="prose prose-invert max-w-3xl"></div>
+
+    <script>
+      const params = new URLSearchParams(window.location.search);
+      const slug = params.get("post");
+
+      if (slug) {
+        fetch(`./posts/${slug}.html`)
+          .then((res) => res.text())
+          .then((html) => {
+            document.getElementById("blog-content").innerHTML = html;
+          })
+          .catch(() => {
+            document.getElementById("blog-content").innerHTML =
+              "<p class='text-red-400'>Blog not found.</p>";
+          });
+      }
+    </script>
+  </body>
+</html>
