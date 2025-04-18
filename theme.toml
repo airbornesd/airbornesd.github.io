@@ -1,0 +1,14 @@
+name = "personal portfolio"
+description = "clean, minimalist hugo theme for personal portfolios"
+homepage = "https://github.com/airbornesd/airbornesd.github.io"
+tags = ["blog", "personal", "portfolio", "minimal", "responsive"]
+features = ["responsive", "blog", "portfolio"]
+min_version = "0.41.0"
+
+[author]
+  name = "siddharth dhaka"
+  homepage = "https://airbornesd.github.io/"
+
+[original]
+  name = "hanwenguo"
+  repo = "https://github.com/hanwenguo/hugo-theme-nostyleplease"
