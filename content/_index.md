@@ -9,6 +9,6 @@ layout = "about"
 
 a software engineer interested in programming, terminal and core cse topics
 
-[github](https://github.com/airbornesd) [linkedin](https://www.linkedin.com/in/siddharthdhakaa/) [rss](https://www.index.xml)
+[github](https://github.com/airbornesd) [linkedin](https://www.linkedin.com/in/siddharthdhakaa/) [resume](/resume) [rss](/index.xml)
 
 These are controlled by \_index.md under the root directory. If you want a more diverse self-introduction, you can insert the markdown content you want here.

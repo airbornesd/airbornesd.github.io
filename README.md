@@ -1,6 +1,6 @@
 # portfolio
 
-this is a basic personal portfolio website built with hugo, which features a clean, minimalist design focused on showcasing my work and blog posts.
+a minimal personal website built with hugo — clean, fast, and focused on showcasing my work and writing.
 
 ## features
 
@@ -9,26 +9,28 @@ this is a basic personal portfolio website built with hugo, which features a cle
 
 ## getting started
 
-to run this site locally:
+to run the site locally:
 
 ```bash
-# clone the repository
-git clone https://github.com/airbornesd/personal-portfolio.git
+# clone the repo
+git clone https://github.com/airbornesd/airbornesd.github.io.git
 
+# go to the project directory
+cd airbornesd.github.io
 
-# navigate to the project directory
-cd personal-portfolio
+# create a new blog post
+make post NAME=my-post
 
-
-# start the hugo server
-hugo server -d
+# start the development server
+hugo server -D
 ```
 
-visit http://localhost:1313 to see the site.
+open [http://localhost:1313](http://localhost:1313) in your browser.
 
 ## customization
 
-- edit `content/_index.md` to update the about page
-- add posts to the `content/posts` directory
-- update site configuration in `config.toml`
-- replace profile image at `static/images/profile.jpg`
+- update `content/_index.md` for the about page
+- add posts in `content/posts/`
+- tweak settings in `config.toml`
+- replace your photo in `static/images/profile.jpg`
+- update resume files in `static/resume/`
