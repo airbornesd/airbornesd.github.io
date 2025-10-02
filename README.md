@@ -21,8 +21,11 @@ cd airbornesd.github.io
 # create a new blog post
 make post NAME=my-post
 
+# # create a new blog directory
+# make dir PATH=my-dir
+
 # start the development server
-hugo server -D
+make run
 ```
 
 open [http://localhost:1313](http://localhost:1313) in your browser.

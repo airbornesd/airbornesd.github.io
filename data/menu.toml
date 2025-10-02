@@ -1,0 +1,33 @@
+# [[entries]]
+# title = "links"
+
+#   [[entries.entries]]
+#   title = "about"
+#   url = "about"
+
+#   [[entries.entries]]
+#   title = "resume"
+#   url = "resume"
+
+#   [[entries.entries]]
+#   title = "github"
+#   url = "https://github.com/airbornesd"
+
+#   [[entries.entries]]
+#   title = "linkedin"
+#   url = "https://www.linkedin.com/in/siddharthdhakaa/"
+
+
+# [[entries]]
+# title = "latest posts"
+
+#   [entries.post_list]
+#   section = "posts"
+#   limit = 5
+#   show_more = true
+#   show_more_text = "See archive..."
+#   show_more_url = "posts"
+
+# [[entries]]
+# title = "rss"
+# url = "index.xml"
