@@ -1,7 +1,7 @@
 ---
 title: "Experience Documentation"
 date: 2025-10-04T12:08:58+05:30
-draft: true
+draft: false
 ---
 
 ## professional summary
