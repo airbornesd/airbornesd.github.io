@@ -22,7 +22,8 @@ cd airbornesd.github.io
 make post NAME=my-post
 
 # # create a new blog directory
-# make dir PATH=my-dir
+# # will be updated later on
+# # make dir PATH=my-dir
 
 # start the development server
 make run
