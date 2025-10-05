@@ -1,10 +1,10 @@
-[[entries]]
-title = "project for leaning"
-subtitle = "here are things i have learnt and built just for learning."
+# [[entries]]
+# title = "project for leaning"
+# subtitle = "here are things i have learnt and built just for learning."
 
-  [[entries.entries]]
-  title = "⬜ project1 — done"
-  url = "projects/project1"
+#   [[entries.entries]]
+#   title = "⬜ project1 — done"
+#   url = "projects/project1"
 
 #   [[entries.entries]]
 #   title = "project2"
