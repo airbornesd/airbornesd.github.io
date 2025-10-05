@@ -16,7 +16,7 @@ draft: false
 
 ---
 
-### [experience](/posts/experience-documentation/)
+### [experience](/posts/experience/)
 
 **senior data engineer (founding data engineer)**\
 blazpay ai – ai-driven fintech for portfolio management, payments, cross-border finance\

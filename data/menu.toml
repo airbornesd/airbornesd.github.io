@@ -1,3 +1,54 @@
+[[entries]]
+title = "project for leaning"
+subtitle = "here are things i have learnt and built just for learning."
+
+  [[entries.entries]]
+  title = "⬜ project1 — done"
+  url = "projects/project1"
+
+#   [[entries.entries]]
+#   title = "project2"
+#   url = "projects/project2"
+
+#   [[entries.entries]]
+#   title = "project3"
+#   url = "projects/project3"
+
+#   [[entries.entries]]
+#   title = "project4"
+#   url = "projects/project4"
+
+#   [[entries.entries]]
+#   title = "project5"
+#   url = "projects/project5"
+
+# [[entries]]
+# title = "papers or articles to read"
+# subtitle = "research and references that helped me improve understanding."
+
+#   [[entries.entries]]
+#   title = "article1"
+#   url = "articles/article1"
+
+#   [[entries.entries]]
+#   title = "article2"
+#   url = "articles/article2"
+
+#   [[entries.entries]]
+#   title = "article3"
+#   url = "articles/article3"
+
+#   [[entries.entries]]
+#   title = "article4"
+#   url = "articles/article4"
+
+#   [[entries.entries]]
+#   title = "article5"
+#   url = "articles/article5"
+
+########################################
+########################################
+
 # [[entries]]
 # title = "links"
 
@@ -31,3 +82,4 @@
 # [[entries]]
 # title = "rss"
 # url = "index.xml"
+

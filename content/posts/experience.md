@@ -1,7 +1,10 @@
 ---
-title: "Experience Documentation"
+title: "Experience"
 date: 2025-10-04T12:08:58+05:30
-draft: false
+unlisted: true
+_build:
+  list: false
+  render: true
 ---
 
 ## professional summary
