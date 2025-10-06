@@ -1,5 +1,5 @@
 ---
-title: "03 Containerized Streaming Platform"
+title: "03 containerized streaming platform"
 date: 2025-10-05T17:18:08+05:30
 draft: false
 ---

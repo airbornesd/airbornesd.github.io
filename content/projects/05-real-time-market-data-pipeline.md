@@ -1,5 +1,5 @@
 ---
-title: "05 Real Time Market Data Pipeline"
+title: "05 real time market data pipeline"
 date: 2025-10-05T17:18:08+05:30
 draft: false
 ---

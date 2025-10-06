@@ -1,5 +1,5 @@
 ---
-title: "07 Cost Optimized Cloud Stack"
+title: "07 cost optimized cloud stack"
 date: 2025-10-05T17:18:08+05:30
 draft: false
 ---

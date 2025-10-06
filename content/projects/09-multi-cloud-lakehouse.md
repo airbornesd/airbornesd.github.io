@@ -1,5 +1,5 @@
 ---
-title: "09 Multi Cloud Lakehouse"
+title: "09 multi cloud lakehouse"
 date: 2025-10-05T17:18:08+05:30
 draft: false
 ---

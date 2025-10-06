@@ -1,5 +1,5 @@
 ---
-title: "10 Trading Slippage Monitor"
+title: "10 trading slippage monitor"
 date: 2025-10-05T17:18:08+05:30
 draft: false
 ---

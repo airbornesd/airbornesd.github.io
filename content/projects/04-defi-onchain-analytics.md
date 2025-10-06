@@ -1,5 +1,5 @@
 ---
-title: "04 Defi Onchain Analytics"
+title: "04 defi onchain analytics"
 date: 2025-10-05T17:18:08+05:30
 draft: false
 ---

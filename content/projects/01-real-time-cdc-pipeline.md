@@ -1,5 +1,5 @@
 ---
-title: "01 Real Time Cdc Pipeline"
+title: "01 real time cdc pipeline"
 date: 2025-10-05T17:18:08+05:30
 draft: false
 ---

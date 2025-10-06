@@ -1,5 +1,5 @@
 ---
-title: "08 Dbt Column Lineage Tool"
+title: "08 dbt column lineage tool"
 date: 2025-10-05T17:18:08+05:30
 draft: false
 ---
