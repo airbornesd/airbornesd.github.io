@@ -30,13 +30,12 @@ _build:
   - [ ] ......
   - [ ] ......
 
-<!-- - **day 2 (11 oct)** -
+- **day 2 (11 oct)** -
   ☐ tasks:
 
-  - [ ] continue project implementation
-  - [ ] review yesterday’s learnings
+  - [ ] read in-depth about pandas
 
-- **day 3 (12 oct)** -
+<!-- - **day 3 (12 oct)** -
   ☐ tasks:
 
   - [ ] experiment with python/sql/cloud concept
