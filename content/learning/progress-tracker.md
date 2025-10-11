@@ -7,14 +7,6 @@ _build:
   render: true
 ---
 
-### 🧠 focus areas
-
-- [ ] python
-- [ ] sql
-- [ ] cloud
-
----
-
 ### 📋 daily learning goals
 
 > read articles, posts, clone data projects, try to understand them, implement them, make projects, and revise previous ones too.
@@ -27,8 +19,6 @@ _build:
   ☐ tasks:
 
   - [ ] read all types of dbms, and db exist and create a short notes and project on it.
-  - [ ] ......
-  - [ ] ......
 
 - **day 2 (11 oct)** -
   ☐ tasks:
