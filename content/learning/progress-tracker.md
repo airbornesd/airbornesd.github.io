@@ -15,23 +15,27 @@ _build:
 
 ### 📅 daily tracker
 
-- **day 1 (10 oct)** -  
-  ☐ tasks:
+- **day 1 (10 oct)**
 
   - [ ] read all types of dbms, and db exist and create a short notes and project on it.
 
-- **day 2 (11 oct)** -
-  ☐ tasks:
+- **day 2 (11 oct)**
 
-  - [ ] read in-depth about pandas
+  - [x] read in-depth about pandas
 
-<!-- - **day 3 (12 oct)** -
-  ☐ tasks:
+- **day 3 (12 oct)**
+  - [x] apache airflow
+  - [ ] python programming (data manipulation, scripting)
+  - [ ] sql (queries, joins, indexing)
+  - [ ] basic data structures (arrays, hashmaps, lists, trees)
+  - [ ] basic algorithms (sorting, searching)
+  - [ ] git & version control (collaboration, reproducibility)
+  - [ ] basic probability & statistics (mean, variance, distributions, conditional probability)
+  - [ ] basic linear algebra (vectors, matrices, dot product)
+  - [ ] basic calculus concepts (gradients, derivatives)
+  - [ ] data formats (csv, json, parquet)
 
-  - [ ] experiment with python/sql/cloud concept
-  - [ ] document learnings
-
-- **day 4 (13 oct)** -
+<!--- **day 4 (13 oct)** -
   ☐ tasks:
 
   - [ ] read new article/post
