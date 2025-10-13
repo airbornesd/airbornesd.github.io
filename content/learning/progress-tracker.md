@@ -24,6 +24,7 @@ _build:
   - [x] read in-depth about pandas
 
 - **day 3 (12 oct)**
+
   - [x] apache airflow
   - [ ] python programming (data manipulation, scripting)
   - [ ] sql (queries, joins, indexing)
@@ -35,13 +36,11 @@ _build:
   - [ ] basic calculus concepts (gradients, derivatives)
   - [ ] data formats (csv, json, parquet)
 
-<!--- **day 4 (13 oct)** -
-  ☐ tasks:
+- **day 4 (13 oct)**
 
-  - [ ] read new article/post
-  - [ ] attempt mini-project or challenge
+  - [ ] [interesting to read](https://medium.com/projectpro/these-4-data-engineering-portfolio-projects-will-get-you-hired-for-ai-roles-cc28cb9b64cd)
 
-- **day 5 (14 oct)** -
+<!-- - **day 5 (14 oct)** -
   ☐ tasks:
 
   - [ ] revision + notes update
