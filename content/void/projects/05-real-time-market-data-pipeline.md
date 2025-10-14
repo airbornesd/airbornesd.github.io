@@ -1,7 +1,7 @@
 ---
 title: "05 real time market data pipeline"
 date: 2025-10-05T17:18:08+05:30
-draft: false
+draft: true
 ---
 
 ### real-time market data pipeline: finnhub/binance → kafka → spark → anomaly detection

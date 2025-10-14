@@ -1,7 +1,7 @@
 ---
 title: "09 multi cloud lakehouse"
 date: 2025-10-05T17:18:08+05:30
-draft: false
+draft: true
 ---
 
 ### multi-cloud lakehouse simulation: s3 + gcs + iceberg namespace routing

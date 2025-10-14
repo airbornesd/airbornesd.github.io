@@ -1,7 +1,7 @@
 ---
 title: "03 containerized streaming platform"
 date: 2025-10-05T17:18:08+05:30
-draft: false
+draft: true
 ---
 
 ### containerized streaming pipeline: kafka + spark + airflow + minio

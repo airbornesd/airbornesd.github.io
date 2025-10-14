@@ -1,7 +1,7 @@
 ---
 title: "06 self healing data pipeline"
 date: 2025-10-05T17:18:08+05:30
-draft: false
+draft: true
 ---
 
 ### self-healing data pipeline with automated rollback and data quality enforcement

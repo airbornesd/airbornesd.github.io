@@ -1,7 +1,7 @@
 ---
 title: "10 trading slippage monitor"
 date: 2025-10-05T17:18:08+05:30
-draft: false
+draft: true
 ---
 
 ### real-time slippage and latency monitor for trading systems

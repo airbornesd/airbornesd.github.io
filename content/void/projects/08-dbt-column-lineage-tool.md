@@ -1,7 +1,7 @@
 ---
 title: "08 dbt column lineage tool"
 date: 2025-10-05T17:18:08+05:30
-draft: false
+draft: true
 ---
 
 ### dbt column lineage and impact analyzer (python cli tool)

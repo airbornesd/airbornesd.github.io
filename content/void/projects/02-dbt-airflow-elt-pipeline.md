@@ -1,7 +1,7 @@
 ---
 title: "02 dbt airflow elt pipeline"
 date: 2025-10-05T17:18:08+05:30
-draft: false
+draft: true
 ---
 
 ### end-to-end elt pipeline with dbt, airflow, and soda (on duckdb or snowflake)
