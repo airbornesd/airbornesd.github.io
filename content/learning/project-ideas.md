@@ -10,3 +10,5 @@ _build:
 - create an on-screen word highlighter for browsers that allows users to highlight text while reading articles.
   each highlight is saved as a note under the article's heading, either locally or on a blog,
   enabling easy organization and later review with optional personal comments.
+
+- to build a data engineering-based job analysis tool that gathers and analyzes job openings and their requirements, you need to design an end-to-end data pipeline that collects, processes, and analyzes job data from multiple sources.

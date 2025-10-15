@@ -36,7 +36,7 @@
   
   [params.theme_config]
     appearance        = "auto"
-    back_home_text    = "← blog"
+    back_home_text    = "← ..."
     date_format       = "2006-01-02"
     isListGroupByDate = true
     isShowFooter      = true

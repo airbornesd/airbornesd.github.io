@@ -37,12 +37,10 @@ draft: true
 
   - [ ] [interesting to read](https://medium.com/projectpro/these-4-data-engineering-portfolio-projects-will-get-you-hired-for-ai-roles-cc28cb9b64cd)
 
-<!-- - **day 5 (14 oct)** -
-  ☐ tasks:
+- **day 5 (14 oct)** -
 
-  - [ ] revision + notes update
+  - [x] done
 
 - **day 6 (15 oct)** -
-  ☐ tasks:
-  - [ ] summarize week learnings
-  - [ ] plan next week topics -->
+
+  - [ ] start with project number 1, dsa
