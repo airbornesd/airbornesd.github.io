@@ -1,6 +1,6 @@
 ---
 title: "warehousing and lakehouse"
-draft: false
+draft: true
 weight: 6
 date: 2025-04-18T11:30:00+00:00
 ---

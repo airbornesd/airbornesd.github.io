@@ -1,6 +1,6 @@
 ---
 title: "documentation and communication"
-draft: false
+draft: true
 weight: 13
 date: 2025-04-18T11:30:00+00:00
 ---

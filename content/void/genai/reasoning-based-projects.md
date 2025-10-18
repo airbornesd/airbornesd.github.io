@@ -1,7 +1,10 @@
 ---
 title: "reasoning based projects"
 date: 2025-10-14T14:32:13+05:30
-draft: false
+unlisted: true
+_build:
+  list: false
+  render: never
 ---
 
 ## 🧩 level 1: foundational (core cs, python, sql, os, networking)

@@ -1,5 +1,5 @@
 ---
-title: "Resume October"
+title: "resume october"
 date: 2025-10-03T19:03:56+05:30
 draft: false
 ---

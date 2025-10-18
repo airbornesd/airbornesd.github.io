@@ -1,13 +1,7 @@
 ---
 title: "roadmap"
-date: 2025-10-05T12:00:00+05:30
+date: 2025-10-14T14:14:26+05:30
 draft: false
 ---
 
-```
-host these projects on github with detailed documentation,
-dockerfiles,
-github actions for ci/cd,
-infrastructure diagrams using mermaid or draw.io,
-record a short intro video - explaining the architecture.
-```
+after getting proficiency can proceed [blog writing](/roadmap/blog)

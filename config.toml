@@ -33,6 +33,7 @@
 [params]
   title = "siddharth dhaka"
   description = "personal website"
+  favicon = "favicon.ico"
   
   [params.theme_config]
     appearance        = "auto"

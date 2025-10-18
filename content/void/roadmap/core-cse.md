@@ -1,6 +1,6 @@
 ---
 title: "core computer science engineering"
-draft: false
+draft: true
 weight: 1
 date: 2025-04-18T11:30:00+00:00
 ---

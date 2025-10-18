@@ -1,6 +1,6 @@
 ---
 title: "monitoring and governance"
-draft: false
+draft: true
 weight: 7
 date: 2025-04-18T11:30:00+00:00
 ---

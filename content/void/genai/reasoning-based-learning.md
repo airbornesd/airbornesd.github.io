@@ -1,7 +1,10 @@
 ---
 title: "reasoning based learning"
 date: 2025-10-14T14:32:27+05:30
-draft: false
+unlisted: true
+_build:
+  list: false
+  render: never
 ---
 
 1. **heap-based ranking system (data structure fundamentals)**

@@ -1,6 +1,6 @@
 ---
 title: "cloud infrastructure"
-draft: false
+draft: true
 weight: 4
 date: 2025-04-18T11:30:00+00:00
 ---

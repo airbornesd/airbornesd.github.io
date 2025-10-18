@@ -1,6 +1,6 @@
 ---
 title: "decentralized data systems and fintech analytics"
-draft: false
+draft: true
 weight: 12
 date: 2025-04-18T11:30:00+00:00
 ---
