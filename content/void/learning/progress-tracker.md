@@ -1,7 +1,10 @@
 ---
 title: "progress tracker"
 date: 2025-10-10T12:47:47+05:30
-draft: true
+unlisted: true
+_build:
+  list: false
+  render: true
 ---
 
 ### 📋 daily learning goals
