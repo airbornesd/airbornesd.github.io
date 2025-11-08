@@ -1,0 +1,3 @@
+{{ $section := .CurrentSection }} {{ if and $section (ne .RelPermalink $section.RelPermalink) }}
+<a href="{{ $section.RelPermalink }}">{{ $.Site.Params.theme_config.back_home_text }}</a
+> {{ end }}

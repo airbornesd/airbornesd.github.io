@@ -1,0 +1,12 @@
+{{ define "main" }}
+<h1>{{ lower .Title }}</h1>
+
+{{ .Content }}
+
+<div class="resume-container">
+    <img src="/resume/resume.jpg" alt="My Resume" class="resume-image" />
+
+    <hr />
+</div>
+
+{{ end }}

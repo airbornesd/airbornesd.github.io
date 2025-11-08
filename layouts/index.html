@@ -1,0 +1,21 @@
+{{ define "main" }}
+
+<a href="/posts">← blog</a>
+
+<div class="about-container">
+    <div class="profile-section">
+        <div class="profile-image">
+            <img src="/images/profile.jpg" alt="{{ .Title }}" onerror="this.onerror=null; this.src='/images/profile.jpg'; if(!this.src.includes('default')) this.style.display='none';" />
+        </div>
+
+        <div class="profile-info">
+            <h1>{{ .Title }}</h1>
+            {{ .Content }}
+        </div>
+    </div>
+</div>
+
+<div class="menu-section">
+    {{ partial "menu_item.html" (dict "context" . "collection" $.Site.Data.menu.entries) }}
+</div>
+{{ end }}

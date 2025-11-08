@@ -1,0 +1,5 @@
+{{ if ne .RelPermalink "/learning/" }}
+<a href="{{ `learning` | relURL }}"
+  >{{ $.Site.Params.theme_config.back_home_text }}</a
+>
+{{ end }}

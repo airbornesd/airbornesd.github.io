@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="{{ $.Site.LanguageCode }}">
+{{- partial "head.html" . -}}
+
+<body a="{{ $.Site.Params.theme_config.appearance | default " auto " }}" class="section-static">
+    <main class="page-content" aria-label="Content">
+        <div class="w">
+            <div class="content-wrapper">
+                {{- block "main" . }}{{- end }}
+            </div>
+            {{ partial "footer.html" }}
+        </div>
+    </main>
+</body>
+
+</html>

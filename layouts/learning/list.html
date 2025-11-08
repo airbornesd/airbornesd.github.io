@@ -1,0 +1,12 @@
+{{ define "main" }} {{ partial "back_link_learning.html" .}}
+
+<h1>{{ .Title }}</h1>
+
+{{ .Content }}
+
+<ul>
+  {{ range .Pages.ByWeight }}
+  <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+  {{ end }}
+</ul>
+{{ end }}

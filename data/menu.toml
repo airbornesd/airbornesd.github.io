@@ -1,0 +1,85 @@
+# [[entries]]
+# title = "project for leaning"
+# subtitle = "here are things i have learnt and built just for learning."
+
+#   [[entries.entries]]
+#   title = "⬜ project1 — done"
+#   url = "projects/project1"
+
+#   [[entries.entries]]
+#   title = "project2"
+#   url = "projects/project2"
+
+#   [[entries.entries]]
+#   title = "project3"
+#   url = "projects/project3"
+
+#   [[entries.entries]]
+#   title = "project4"
+#   url = "projects/project4"
+
+#   [[entries.entries]]
+#   title = "project5"
+#   url = "projects/project5"
+
+# [[entries]]
+# title = "papers or articles to read"
+# subtitle = "research and references that helped me improve understanding."
+
+#   [[entries.entries]]
+#   title = "article1"
+#   url = "articles/article1"
+
+#   [[entries.entries]]
+#   title = "article2"
+#   url = "articles/article2"
+
+#   [[entries.entries]]
+#   title = "article3"
+#   url = "articles/article3"
+
+#   [[entries.entries]]
+#   title = "article4"
+#   url = "articles/article4"
+
+#   [[entries.entries]]
+#   title = "article5"
+#   url = "articles/article5"
+
+########################################
+########################################
+
+# [[entries]]
+# title = "links"
+
+#   [[entries.entries]]
+#   title = "about"
+#   url = "about"
+
+#   [[entries.entries]]
+#   title = "resume"
+#   url = "resume"
+
+#   [[entries.entries]]
+#   title = "github"
+#   url = "https://github.com/airbornesd"
+
+#   [[entries.entries]]
+#   title = "linkedin"
+#   url = "https://www.linkedin.com/in/siddharthdhakaa/"
+
+
+# [[entries]]
+# title = "latest posts"
+
+#   [entries.post_list]
+#   section = "posts"
+#   limit = 5
+#   show_more = true
+#   show_more_text = "See archive..."
+#   show_more_url = "posts"
+
+# [[entries]]
+# title = "rss"
+# url = "index.xml"
+

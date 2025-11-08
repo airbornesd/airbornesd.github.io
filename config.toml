@@ -1,0 +1,45 @@
+[module]
+  [module.hugoVersion]
+    extended = true
+    min      = "0.41.0"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+    [markup.goldmark.parser.attribute]
+      block = true
+      title = true
+
+  [markup.highlight]
+    anchorLineNos      = false
+    codeFences         = true
+    guessSyntax        = false
+    hl_Lines           = ''
+    hl_inline          = false
+    lineAnchors        = ''
+    lineNoStart        = 1
+    lineNos            = false
+    lineNumbersInTable = true
+    noClasses          = true
+    noHl               = false
+    style              = 'rrt'
+    tabWidth           = 4
+
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel   = 3
+    ordered    = false
+
+[params]
+  title = "siddharth dhaka"
+  description = "personal website"
+  favicon = "favicon.ico"
+  
+  [params.theme_config]
+    appearance        = "auto"
+    back_home_text    = "← ..."
+    date_format       = "2006-01-02"
+    isListGroupByDate = true
+    isShowFooter      = true
+    show_description  = false

@@ -1,0 +1,13 @@
+# hugo build output
+public/
+resources/
+
+# hugo cache
+hugo_stats.json
+.hugo_build.lock
+
+# system files
+.DS_Store
+
+# for local development purposes
+/content/void
