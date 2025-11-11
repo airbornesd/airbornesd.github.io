@@ -13,7 +13,7 @@ draft: false
 |                  | loops                            |    ✅     |           |           |
 |                  | conditionals                     |    ✅     |           |           |
 |                  | data types                       |    ✅     |           |           |
-| **basic dsa**    | number system                    |           |           |           |
+| **basic dsa**    | number system                    |    ✅     |           |           |
 |                  | arrays                           |           |           |           |
 |                  | strings                          |           |           |           |
 |                  | vectors (2d arrays)              |           |           |           |
@@ -36,19 +36,19 @@ draft: false
 
 ---
 
-### projects
+### mini-projects
 
 | category                      | topic                                           | revision1 | revision2 | revision3 |
 | ----------------------------- | ----------------------------------------------- | :-------: | :-------: | :-------: |
 | **data engineering projects** | dataset cleaning & etl pipeline                 |    ✅     |           |           |
 |                               | api to db pipeline                              |    ✅     |           |           |
 |                               | data lake + dbt transformation                  |           |           |           |
-|                               | airflow dags                                    |           |           |           |
+|                               | airflow dags                                    |    ✅     |           |           |
 |                               | realtime payments + fraud detection (streaming) |           |           |           |
 |                               | cdc pipeline                                    |           |           |           |
 |                               | feature store + realtime scoring                |           |           |           |
-|                               | data mesh                                       |           |           |           |
-|                               | crypto trading pipeline                         |           |           |           |
+|                               | data mesh                                       |    ✅     |           |           |
+|                               | crypto trading pipeline                         |    ✅     |           |           |
 
 ---
 
@@ -64,3 +64,34 @@ draft: false
 |              | security                  |           |           |           |
 |              | distributed systems       |           |           |           |
 |              | concurrency & parallelism |           |           |           |
+
+---
+
+### projects on resume
+
+| category                      | topic                                        | revision1 | revision2 | revision3 |
+| ----------------------------- | -------------------------------------------- | :-------: | :-------: | :-------: |
+| **data engineering projects** | bp ai data platform (elt, 1m+ events/day)    |           |           |           |
+|                               | mg etl + cdc streaming                       |           |           |           |
+|                               | image to text ml pipeline (resnet + lstm)    |           |           |           |
+|                               | duplicate question detector (roberta + lstm) |           |           |           |
+| **big data & streaming**      | spark (on glue)                              |           |           |           |
+|                               | kafka                                        |           |           |           |
+|                               | kinesis + firehose                           |           |           |           |
+|                               | cdc (dynamodb → s3)                          |           |           |           |
+| **orchestration & modeling**  | airflow (dags, retries, reconciliation)      |           |           |           |
+|                               | dbt (modeling in bp)                         |           |           |           |
+|                               | star-schema (redshift)                       |           |           |           |
+| **cloud & storage**           | aws glue, lambda, s3, redshift, athena       |           |           |           |
+|                               | s3 zoning (raw/processed/curated)            |           |           |           |
+| **devops & cicd**             | python-based ci/cd (bp)                      |           |           |           |
+|                               | git + jenkins (mg)                           |           |           |           |
+| **visualization & reporting** | tableau dashboards (kpis, kyc, revenue)      |           |           |           |
+| **fintech domains**           | real-time fraud detection (<150ms)           |           |           |           |
+|                               | p&l, subscriptions, wallet monitoring        |           |           |           |
+|                               | investor kpi tracking (seed round)           |           |           |           |
+| **leadership & impact**       | founding data engineer (from scratch)        |           |           |           |
+|                               | sole data engineer (end-to-end ownership)    |           |           |           |
+|                               | reduced tickets 65%, deploy time 40%         |           |           |           |
+| **academic & mentoring**      | scalable architectures research              |           |           |           |
+|                               | taught 100+ students (python, sql, aws, dsa) |           |           |           |
