@@ -18,7 +18,7 @@ draft: false
 
 ### [experience](/posts/experience-nov/)
 
-**senior da ta engineer (founding data engineer)**  
+**senior data engineer (founding data engineer)**  
 blazpay ai – ai-driven fintech for portfolio management, payments, cross-border finance  
 **jul 2024 – present**
 
