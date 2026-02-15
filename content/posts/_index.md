@@ -4,4 +4,4 @@ date: 2025-01-27T00:00:00+05:30
 draft: false
 ---
 
-<img src="/images/posts/header.jpeg" alt="posts_image_error">
+<img src="/images/posts/bmw_new.jpeg" alt="posts_image_error" width="600" height="300">
