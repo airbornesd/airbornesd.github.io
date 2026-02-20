@@ -4,11 +4,13 @@ date: 2026-02-15T13:19:59+05:30
 draft: false
 ---
 
+### ---> [roadmap](/projects/roadmap)
+
 ### phase 1: the "real-time" architecture (justifying blazpay experience)
 
 focus: kafka, websockets, low-latency processing.
 
-#### --> [project 1: the "order book" aggregator](/projects/project1)
+#### [project 1: the "order book" aggregator](/projects/project1)
 
 #### [project 2: the "fraud detection" sliding window](/projects/project2)
 
