@@ -9,10 +9,7 @@ layout = "about"
 
 a software engineer interested in data, terminal and core cse topics
 
-- [basics](/basics)
-- [projects](/projects)
-
-<!-- - [github](https://github.com/airbornesd)
+- [github](https://github.com/airbornesd)
 - [linkedin](https://www.linkedin.com/in/siddharthdhakaa/)
 - [rss](/index.xml)
-- [resume](/resume) -->
+- [resume](/resume)
